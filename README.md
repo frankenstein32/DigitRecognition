@@ -1,1 +1,1 @@
-# DigitRecognitionANN
+# DigitRecognition
